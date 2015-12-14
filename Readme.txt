@@ -1,0 +1,1 @@
+Aplikasi ini masih sangat sederhana, hanya baru masuk ke sistem CRUD.
